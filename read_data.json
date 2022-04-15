@@ -1,0 +1,250 @@
+{
+  "took" : 288,
+  "timed_out" : false,
+  "_shards" : {
+    "total" : 1,
+    "successful" : 1,
+    "skipped" : 0,
+    "failed" : 0
+  },
+  "hits" : {
+    "total" : {
+      "value" : 21,
+      "relation" : "eq"
+    },
+    "max_score" : 1.0,
+    "hits" : [
+      {
+        "_index" : "pp_index",
+        "_type" : "student",
+        "_id" : "1",
+        "_score" : 1.0,
+        "_source" : {
+          "name" : "skk",
+          "usn" : "123",
+          "program" : "be"
+        }
+      },
+      {
+        "_index" : "pp_index",
+        "_type" : "student",
+        "_id" : "2",
+        "_score" : 1.0,
+        "_source" : {
+          "name" : "psr",
+          "usn" : "123",
+          "program" : "BE"
+        }
+      },
+      {
+        "_index" : "pp_index",
+        "_type" : "student",
+        "_id" : "3",
+        "_score" : 1.0,
+        "_source" : {
+          "name" : "nr",
+          "usn" : "12345",
+          "program" : "BE"
+        }
+      },
+      {
+        "_index" : "pp_index",
+        "_type" : "student",
+        "_id" : "4",
+        "_score" : 1.0,
+        "_source" : {
+          "name" : "rv",
+          "usn" : "1",
+          "program" : "BE"
+        }
+      },
+      {
+        "_index" : "pp_index",
+        "_type" : "student",
+        "_id" : "5",
+        "_score" : 1.0,
+        "_source" : {
+          "name" : "rv",
+          "usn" : "1",
+          "program" : "BE"
+        }
+      },
+      {
+        "_index" : "pp_index",
+        "_type" : "student",
+        "_id" : "6",
+        "_score" : 1.0,
+        "_source" : {
+          "name" : "S Kandha Kumaran",
+          "usn" : "1RV18EI048",
+          "program" : "BE"
+        }
+      },
+      {
+        "_index" : "pp_index",
+        "_type" : "student",
+        "_id" : "7",
+        "_score" : 1.0,
+        "_source" : {
+          "name" : "Sujith",
+          "usn" : "1RV18EI038",
+          "program" : "BE"
+        }
+      },
+      {
+        "_index" : "pp_index",
+        "_type" : "student",
+        "_id" : "8",
+        "_score" : 1.0,
+        "_source" : {
+          "name" : "Badri",
+          "usn" : "1RV18IEM038",
+          "program" : "BE"
+        }
+      },
+      {
+        "_index" : "pp_index",
+        "_type" : "student",
+        "_id" : "9",
+        "_score" : 1.0,
+        "_source" : {
+          "name" : "Dhyan",
+          "usn" : "1RV18IEM039",
+          "program" : "BE"
+        }
+      },
+      {
+        "_index" : "pp_index",
+        "_type" : "student",
+        "_id" : "10",
+        "_score" : 1.0,
+        "_source" : {
+          "name" : "KCP",
+          "usn" : "1RV18IEM089",
+          "program" : "BE"
+        }
+      },
+      {
+        "_index" : "pp_index",
+        "_type" : "student",
+        "_id" : "11",
+        "_score" : 1.0,
+        "_source" : {
+          "name" : "BEST",
+          "usn" : "RVCE",
+          "program" : "BE"
+        }
+      },
+      {
+        "_index" : "pp_index",
+        "_type" : "student",
+        "_id" : "12",
+        "_score" : 1.0,
+        "_source" : {
+          "name" : "BEST",
+          "usn" : "RVCE",
+          "program" : "BE"
+        }
+      },
+      {
+        "_index" : "pp_index",
+        "_type" : "student",
+        "_id" : "13",
+        "_score" : 1.0,
+        "_source" : {
+          "name" : "BEST",
+          "usn" : "RVCE",
+          "program" : "BE"
+        }
+      },
+      {
+        "_index" : "pp_index",
+        "_type" : "student",
+        "_id" : "14",
+        "_score" : 1.0,
+        "_source" : {
+          "name" : "BEST",
+          "usn" : "RVCE",
+          "program" : "BE"
+        }
+      },
+      {
+        "_index" : "pp_index",
+        "_type" : "student",
+        "_id" : "15",
+        "_score" : 1.0,
+        "_source" : {
+          "name" : "BEST",
+          "usn" : "RVCE",
+          "program" : "BE"
+        }
+      },
+      {
+        "_index" : "pp_index",
+        "_type" : "student",
+        "_id" : "16",
+        "_score" : 1.0,
+        "_source" : {
+          "name" : "BEST",
+          "usn" : "RVCE",
+          "program" : "BE"
+        }
+      },
+      {
+        "_index" : "pp_index",
+        "_type" : "student",
+        "_id" : "17",
+        "_score" : 1.0,
+        "_source" : {
+          "name" : "BEST",
+          "usn" : "RVCE",
+          "program" : "BE"
+        }
+      },
+      {
+        "_index" : "pp_index",
+        "_type" : "student",
+        "_id" : "18",
+        "_score" : 1.0,
+        "_source" : {
+          "name" : "BEST",
+          "usn" : "RVCE",
+          "program" : "BE"
+        }
+      },
+      {
+        "_index" : "pp_index",
+        "_type" : "student",
+        "_id" : "19",
+        "_score" : 1.0,
+        "_source" : {
+          "name" : "BEST",
+          "usn" : "RVCE",
+          "program" : "BE"
+        }
+      },
+      {
+        "_index" : "pp_index",
+        "_type" : "student",
+        "_id" : "20",
+        "_score" : 1.0,
+        "_source" : {
+          "name" : "BEST",
+          "usn" : "RVCE",
+          "program" : "BE"
+        }
+      },
+      {
+        "_index" : "pp_index",
+        "_type" : "student",
+        "_id" : "21",
+        "_score" : 1.0,
+        "_source" : {
+          "name" : "S Kandha Kumaran",
+          "usn" : "1RV18EI048",
+          "program" : "BE"
+        }
+      }
+    ]
+  }
+}
